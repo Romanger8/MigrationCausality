@@ -368,8 +368,6 @@ class CausalityAnalysis:
             p_val_gdp = min(p_val_gdp, p)
             
             
-            #p_val_gdp = 2
-            #p_val_migr = 3
                        
         return p_val_gdp, p_val_migr
     
