@@ -1,12 +1,12 @@
 # MigrationCausality
  
-Project Name: Analysis of the key drivers of Migration
+Project Name: Analysis of the key social and economic drivers of Migration
 
 Description: This is a personal project with the goal of better understanding real world data on Migration and quantitative testing of the key Hypothesis in regards to dependencies of Migration with other social and ecoonmic variables.
 
 Installation: Project is currently under development, for questions on the code - please contact the author.
 
-Contributing: If you are interested in Contributing - pleases contact the author.
+Contributing: If you are interested in Contributing - please contact the author.
 
 Credits: Include a section for credits in order to highlight and link to the authors of your project.
 
