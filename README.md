@@ -6,7 +6,7 @@ Description: This is a personal project with the goal of better understanding re
 
 Installation: Project is currently under development, for questions on the code - please contact the author (see contact details below).
 
-Contributing: If you are interested in Contributing - please contact the author (see contact details below).
+Contributing: If you are interested in contributing - please contact the author (see contact details below).
 
 License: MIT license
 
