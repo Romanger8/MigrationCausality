@@ -393,45 +393,6 @@ if __name__ == '__main__':
     merged_data = merged_data[merged_data.TIME <= 2005]
     
     country_list = ['Germany', 'United Kingdom', 'Norway']
-    """
-    country_list = ['Germany', 'Netherlands', 'Sweden', 'Austria',
-                    'Belgium', 'Denmark', 'Estonia', 'Finland', 'France',
-                    'Greece', 'Iceland', 'Italy']
-    """
-    """ ,
-                    ,'Czech Republic'
-                    
-                    ,
-                   
-                    
-                     ,
-                     
-                     
-                     
-                     
-                     'Ireland',
-                    
-                     'Italy',
-                     
-                    
-                     'Luxembourg',
-                    
-                     
-                     
-                     'Norway',
-                    
-                    
-                     'Poland',
-                     'Portugal',
-                    
-                   
-                    
-                     'Spain',
-                     
-                     'Switzerland',
-                   
-                     'United Kingdom',
-                     'United States']"""
     
     granger_causality_results = {}
     for c in country_list:
