@@ -401,10 +401,3 @@ if __name__ == '__main__':
         granger_causality_results[c] = causality_results.results['final_output']
         # TODO: Check for 4 countries based on deltas and logs as in the paper 'SSRN-id2258385 to compare granger caus results'
         # TODO: debug for Iceland
-        #print(c+': ', causality_results.results['stationarity_diff_levels'])
-        #print(causality_results.results['stationarity_p_values'])
-        #print(causality_results.results['granger_causality'])
-        
-    #single_country_data = (merged_data, 'Germany')
-    
-    
